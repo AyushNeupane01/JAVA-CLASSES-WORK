@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class MathOperations
+public class MathOperations3
 {
     public static void main(String[]arg)
     {
